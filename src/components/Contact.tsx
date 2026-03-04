@@ -178,7 +178,8 @@ export default function Contact() {
       {/* Footer */}
       <div className="mt-16 pt-8 border-t border-dark-700 text-center">
         <p className="text-small text-gray-500">
-          © {new Date().getFullYear()} {basic.name}. Built with React + TypeScript + TailwindCSS.
+          {/* © {new Date().getFullYear()} {basic.name}. Built with React + TypeScript + TailwindCSS. */}
+          © {new Date().getFullYear()} {basic.name}. Built by Yoa with React + TypeScript + TailwindCSS.
         </p>
       </div>
     </Section>
