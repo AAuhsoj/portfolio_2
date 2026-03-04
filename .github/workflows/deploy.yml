@@ -36,7 +36,8 @@ jobs:
 
       - name: Build
         env:
-          VITE_BASE: /aauhsoj_port/
+          # VITE_BASE: /aauhsoj_port/
+          VITE_BASE: /portfolio_2/
         run: npm run build
 
       - name: Setup Pages
