@@ -4,17 +4,17 @@
 
 ## Basic
 - Name: **Sol JEONG**
-- Role line (landing typing text): **Master Std. in IAI Lab**
+- Role line (landing typing text): **Manufacturing AI Researcher & Engineer**
 - GitHub: **AAuhsoj**
 - Instagram: **jsol_9876**
 - LinkedIn: **sol-jeong-2740613a6**
 - Email: **bohomi1995j@gmail.com**
-- CV (PDF): **https://aauhsoj.github.io/aauhsoj_port/assets/papers/cv_sol_jeong.pdf**
+- CV (PDF): **https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/cv_sol_jeong.pdf**
 
 ---
 
 ## About Me
-Hello, I'm a master's student at the IAI Lab, Kyung Hee University. My major is Big Data Analytics, and I earned my bachelor's degree in Industrial and Management Systems Engineering.
+Hello, I hold a master's degree from the IAI Lab, Kyung Hee University, where I majored in Big Data Analytics. I also earned my bachelor's degree in Industrial and Management Systems Engineering.
 
 ---
 
@@ -52,6 +52,10 @@ Hello, I'm a master's student at the IAI Lab, Kyung Hee University. My major is 
 ---
 
 ## Education & Experience (Timeline)
+- **SK Hynix**
+  - Date: Mar. 2026 - Jul. 2026
+  - Subtitle: AI/ML Researcher
+
 - **IAI Lab. in Kyung-Hee Univ.**
   - Date: Mar. 2023 - Feb. 2026
   - Subtitle: M.S. Big Data Analytics
@@ -147,25 +151,31 @@ Neumorphism 디자인 테마를 적용하여 현대적이고 세련된 UI를 구
 
 ## Research Projects
 
-### 1) 설비 및 공정 통합 관제를 위한 제조 특화 SLM 개발
+### 1) SKHy '26년 AI/ML 기반 예측을 통한 스케줄링 고도화
+- Organization: SK하이닉스(SK(주))
+- Period: 2026.3 ~ 2026.7
+- Keywords: WIP Prediction, Scheduling
+- Tags: Semiconductor, Time-series Forecasting
+
+### 2) 설비 및 공정 통합 관제를 위한 제조 특화 SLM 개발
 - Organization: 한화모멘텀
 - Period: 2025.3 ~ 2026.2
 - Keywords: SLM, Manufacturing
 - Tags: Process Control, Smart Factory
 
-### 2) 머신러닝을 활용한 디스패칭 규칙 자동생성 및 고도화
+### 3) 머신러닝을 활용한 디스패칭 규칙 자동생성 및 고도화
 - Organization: CSPI
 - Period: 2024.10 ~ 2025.3
 - Keywords: Dispatching Rule, Machine Learning
 - Tags: Scheduling, Optimization
 
-### 3) 생성형 AI 및 스몰데이터 기반 온디바이스 AI 품질 검사 최적화
+### 4) 생성형 AI 및 스몰데이터 기반 온디바이스 AI 품질 검사 최적화
 - Organization: 주력산업IT융합사업, 산업통상자원부
 - Period: 2024.07 ~ 2026.02
 - Keywords: Generative AI, On-device AI
 - Tags: Quality Inspection, Small Data
 
-### 4) 자율운항 성능 고도화를 위한 해상환경 학습 데이터셋 구축
+### 5) 자율운항 성능 고도화를 위한 해상환경 학습 데이터셋 구축
 - Organization: 국방벤처혁신기술지원사업, 방위사업청
 - Period: 2024.03 ~ 2024.12
 - Keywords: Autonomous Navigation, Marine Dataset
@@ -178,10 +188,16 @@ Neumorphism 디자인 테마를 적용하여 현대적이고 세련된 UI를 구
 ### International Journal
 - **Authors:** Sol Jeong and Jae-Yoon Jung*
 - **Title:** An LLM-based Question Answering Framework for Industrial IoT Data Using Text-to-SQL
-- **Venue:** Under preparation
-- **Period:** in preparation
+- **Venue:** SCI Journal
+- **Period:** Submitted
 - **Link:** https://aauhsoj.github.io/aauhsoj_port/assets/papers/text_to_sql_2025.pdf
 - **Tags:** LLM, Text-to-SQL, Industrial IoT
+
+- **Authors:** Sol Jeong and Jae-Yoon Jung*
+- **Title:** TrackLens: Explainable Multi-Object Tracking
+- **Venue:** SCI Journal
+- **Period:** in preparation
+- **Tags:** Multiple Object Tracking, Explainable AI, Computer Vision
 
 ### International Conference
 - **Authors:** Sol Jeong, Minsik Kim, Myeong-Gu Kang, and Jae-Yoon Jung*

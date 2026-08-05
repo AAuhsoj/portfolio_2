@@ -6,14 +6,14 @@ import type { PortfolioData } from '@/types/portfolio'
 export const portfolioData: PortfolioData = {
   "basic": {
     "name": "Sol JEONG",
-    "role": "Master Std. in IAI Lab",
+    "role": "Manufacturing AI Researcher & Engineer",
     "github": "AAuhsoj",
     "instagram": "jsol_9876",
     "linkedin": "sol-jeong-2740613a6",
     "email": "bohomi1995j@gmail.com",
-    "cvUrl": "https://aauhsoj.github.io/aauhsoj_port/assets/papers/cv_sol_jeong.pdf"
+    "cvUrl": "https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/cv_sol_jeong.pdf"
   },
-  "about": "Hello, I'm a master's student at the IAI Lab, Kyung Hee University. My major is Big Data Analytics, and I earned my bachelor's degree in Industrial and Management Systems Engineering.",
+  "about": "Hello, I hold a master's degree from the IAI Lab, Kyung Hee University, where I majored in Big Data Analytics. I also earned my bachelor's degree in Industrial and Management Systems Engineering.",
   "skills": [
     {
       "name": "Python",
@@ -128,6 +128,11 @@ export const portfolioData: PortfolioData = {
   ],
   "timeline": [
     {
+      "title": "SK Hynix",
+      "subtitle": "AI/ML Researcher",
+      "date": "Mar. 2026 - Jul. 2026"
+    },
+    {
       "title": "IAI Lab. in Kyung-Hee Univ.",
       "subtitle": "M.S. Big Data Analytics",
       "date": "Mar. 2023 - Feb. 2026",
@@ -240,6 +245,21 @@ export const portfolioData: PortfolioData = {
   ],
   "researchProjects": [
     {
+      "id": "skhy-26년-aiml-기반-예측을-통한-스케줄링-고도화",
+      "type": "research",
+      "title": "SKHy '26년 AI/ML 기반 예측을 통한 스케줄링 고도화",
+      "organization": "SK하이닉스(SK(주))",
+      "period": "2026.3 ~ 2026.7",
+      "keywords": [
+        "WIP Prediction",
+        "Scheduling"
+      ],
+      "tags": [
+        "Semiconductor",
+        "Time-series Forecasting"
+      ]
+    },
+    {
       "id": "설비-및-공정-통합-관제를-위한-제조-특화-slm-개발",
       "type": "research",
       "title": "설비 및 공정 통합 관제를 위한 제조 특화 SLM 개발",
@@ -306,13 +326,26 @@ export const portfolioData: PortfolioData = {
       "type": "international-journal",
       "authors": "Sol Jeong and Jae-Yoon Jung*",
       "title": "An LLM-based Question Answering Framework for Industrial IoT Data Using Text-to-SQL",
-      "venue": "Under preparation",
-      "period": "in preparation",
+      "venue": "SCI Journal",
+      "period": "Submitted",
       "link": "https://aauhsoj.github.io/aauhsoj_port/assets/papers/text_to_sql_2025.pdf",
       "tags": [
         "LLM",
         "Text-to-SQL",
         "Industrial IoT"
+      ]
+    },
+    {
+      "id": "tracklens-explainable-multi-object-tracking",
+      "type": "international-journal",
+      "authors": "Sol Jeong and Jae-Yoon Jung*",
+      "title": "TrackLens: Explainable Multi-Object Tracking",
+      "venue": "SCI Journal",
+      "period": "in preparation",
+      "tags": [
+        "Multiple Object Tracking",
+        "Explainable AI",
+        "Computer Vision"
       ]
     },
     {
