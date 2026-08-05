@@ -16,7 +16,7 @@ export default function About() {
               </span>
             </div>
             {/* Decorative accent */}
-            <div className="absolute -bottom-3 -right-3 w-24 h-24 bg-accent-primary/10 rounded-2xl -z-10" />
+            <div className="absolute -bottom-3 -right-3 w-48 h-48 md:w-56 md:h-56 bg-accent-primary/10 rounded-2xl -z-10" />
           </div>
         </div>
 
