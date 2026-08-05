@@ -9,7 +9,7 @@ export default function About() {
       <div className="grid md:grid-cols-5 gap-8 md:gap-12 items-start">
         {/* Profile Image Placeholder */}
         <div className="md:col-span-2 flex justify-center md:justify-start">
-          <div className="relative">
+          <div className="relative z-0">
             <div className="w-48 h-48 md:w-56 md:h-56 rounded-2xl bg-gradient-to-br from-dark-600 to-dark-700 border border-dark-500 flex items-center justify-center overflow-hidden">
               <span className="text-6xl md:text-7xl font-bold text-accent-primary/30">
                 {basic.name.charAt(0)}
