@@ -6,7 +6,6 @@ export interface BasicInfo {
   linkedin: string
   email: string
   cvUrl: string
-  photoUrl?: string
 }
 
 export interface Skill {

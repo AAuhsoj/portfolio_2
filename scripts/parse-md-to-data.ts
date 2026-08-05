@@ -9,7 +9,6 @@ interface BasicInfo {
   linkedin: string
   email: string
   cvUrl: string
-  photoUrl?: string
 }
 
 interface Skill {
@@ -94,7 +93,6 @@ function parseMarkdown(content: string): PortfolioData {
     linkedin: extractValue(content, /LinkedIn:\s*\*\*(.+?)\*\*/),
     email: extractValue(content, /Email:\s*\*\*(.+?)\*\*/),
     cvUrl: extractValue(content, /CV \(PDF\):\s*\*\*(.+?)\*\*/),
-    photoUrl: extractValue(content, /Photo \(URL\):\s*\*\*(.+?)\*\*/) || undefined,
   }
 
   // About

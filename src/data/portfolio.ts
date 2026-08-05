@@ -11,8 +11,7 @@ export const portfolioData: PortfolioData = {
     "instagram": "jsol_9876",
     "linkedin": "sol-jeong-2740613a6",
     "email": "bohomi1995j@gmail.com",
-    "cvUrl": "https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/cv_sol_jeong.pdf",
-    "photoUrl": "https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/profile.jpg"
+    "cvUrl": "https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/cv_sol_jeong.pdf"
   },
   "about": "Hello, I hold a master's degree from the IAI Lab, Kyung Hee University, where I majored in Big Data Analytics. I also earned my bachelor's degree in Industrial and Management Systems Engineering.",
   "skills": [
