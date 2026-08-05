@@ -10,6 +10,7 @@
 - LinkedIn: **sol-jeong-2740613a6**
 - Email: **bohomi1995j@gmail.com**
 - CV (PDF): **https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/cv_sol_jeong.pdf**
+- Photo (URL): **https://portfolio-six-lovat-9bcbqsjjzy.vercel.app/profile.jpg**
 
 ---
 
